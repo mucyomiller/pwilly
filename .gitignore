@@ -1,0 +1,5 @@
+dist/
+node_modeules/
+node_modules/
+.nyc_output/
+coverage/
